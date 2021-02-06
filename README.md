@@ -1,28 +1,29 @@
 # Alícia Dark
-## Hello There !✌️, `I'm Alícia`.  
+## Hello There !, `I'm Alícia`.  
 :
 
 
 <img align=right src='https://telegra.ph/file/8099358036735660b0c27.mp4'/>
 
 
-### About Me 🙂
+### About Me 
 ```
->Noob Learner:D
->Fan of Python🐍
->Love Gaming:)
+>Pro kanger
+>I like cats
+>I like Paimon
 ```
->### KangerXD
+
 
 <img src="https://komarev.com/ghpvc/?username=RoyalBoy69" alt="RoyalBoy69" />
 
-### CHECK-OUT🙂:
+### CHECK-OUT
 
-- [ ] [userge x](https://github.com/code-rgb/Userge-X)
+- [ ] [userge-x](https://github.com/code-rgb/Userge-X)
+- [ ] [oub-remix](https://github.com/sahyam2019/oub-remix)
 
-![Priyanshu's github stats](https://github-readme-stats.vercel.app/api?username=royalboy69&show_icons=true&theme=radical)
+![Alicia's's github stats](https://github-readme-stats.vercel.app/api?username=thegreatfoxxgoddess&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoyalBoy69&hide=dockerfile&theme=dark)](https://github.com/RoyalBoy69)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thegreatfoxxgoddess&hide=dockerfile&theme=dark)](https://github.com/thegreatfoxxgoddess)
 
 
-kek, Byee...
+okay, byee...
